@@ -7,7 +7,7 @@ package University.Campus;
 
 /**
  *
- * @author kal bugrara
+ * @author manavshah
  */
 public class Seat {
     

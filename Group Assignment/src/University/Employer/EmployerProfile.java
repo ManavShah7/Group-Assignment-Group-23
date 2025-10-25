@@ -5,12 +5,12 @@
  */
 package University.Employer;
 
-import info5100.university.example.Persona.EmploymentHistory.Employment;
+import University.Persona.EmploymentHistory.Employment;
 import java.util.ArrayList;
 
 /**
  *
- * @author kal bugrara
+ * @author manavshah
  */
 public class EmployerProfile {
     String name;

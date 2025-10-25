@@ -7,7 +7,7 @@ package University.CourseCatalog;
 
 /**
  *
- * @author kal bugrara
+ * @author manavshah
  */
 public class Course {
 

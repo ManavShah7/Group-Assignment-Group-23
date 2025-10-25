@@ -5,14 +5,14 @@
  */
 package University.Persona;
 
-import info5100.university.example.CourseSchedule.CourseLoad;
-import info5100.university.example.CourseSchedule.SeatAssignment;
-import info5100.university.example.Persona.EmploymentHistory.EmploymentHistroy;
+import University.CourseSchedule.CourseLoad;
+import University.CourseSchedule.SeatAssignment;
+import University.Persona.EmploymentHistory.EmploymentHistroy;
 import java.util.ArrayList;
 
 /**
  *
- * @author kal bugrara
+ * @author manavshah
  */
 public class StudentProfile {
 

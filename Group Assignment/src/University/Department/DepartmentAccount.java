@@ -5,11 +5,11 @@
  */
 package University.Department;
 
-import info5100.university.example.CourseSchedule.CourseSchedule;
+import University.CourseSchedule.CourseSchedule;
 
 /**
  *
- * @author kal bugrara
+ * @author manavshah
  */
 public class DepartmentAccount {
   Department department;

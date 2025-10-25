@@ -5,14 +5,14 @@
  */
 package University.Degree;
 
-import info5100.university.example.CourseCatalog.Course;
-import info5100.university.example.CourseSchedule.SeatAssignment;
+import University.CourseCatalog.Course;
+import University.CourseSchedule.SeatAssignment;
 import University.Persona.StudentProfile;
 import java.util.ArrayList;
 
 /**
  *
- * @author kal bugrara
+ * @author manavshah
  */
 public class Degree {
 

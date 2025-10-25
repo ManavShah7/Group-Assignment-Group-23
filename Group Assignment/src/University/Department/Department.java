@@ -5,14 +5,14 @@
  */
 package University.Department;
 
-import info5100.university.example.CourseCatalog.Course;
-import info5100.university.example.CourseCatalog.CourseCatalog;
-import info5100.university.example.CourseSchedule.CourseLoad;
-import info5100.university.example.CourseSchedule.CourseOffer;
-import info5100.university.example.CourseSchedule.CourseSchedule;
+import University.CourseCatalog.Course;
+import University.CourseCatalog.CourseCatalog;
+import University.CourseSchedule.CourseLoad;
+import University.CourseSchedule.CourseOffer;
+import University.CourseSchedule.CourseSchedule;
 import University.Degree.Degree;
 import University.Employer.EmployerDirectory;
-import info5100.university.example.Persona.Faculty.FacultyDirectory;
+import University.Persona.Faculty.FacultyDirectory;
 import University.Persona.PersonDirectory;
 import University.Persona.StudentDirectory;
 import University.Persona.StudentProfile;
@@ -20,7 +20,7 @@ import java.util.HashMap;
 
 /**
  *
- * @author kal bugrara
+ * @author manavshah
  */
 public class Department {
 

@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package info5100.university.example.CourseSchedule;
+package University.CourseSchedule;
 
-import info5100.university.example.CourseCatalog.Course;
+import University.CourseCatalog.Course;
 
 /**
  *
- * @author kal bugrara
+ * @author manavshah
  */
 public class SeatAssignment {
     float grade; //(Letter grade mappings: A=4.0, A-=3.7, B+=3.3, B=3.0, )

@@ -7,7 +7,7 @@ package University.Persona;
 
 /**
  *
- * @author kal bugrara
+ * @author manavshah
  */
 public class Person {
     

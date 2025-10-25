@@ -5,12 +5,12 @@
  */
 package University.Department;
 
-import info5100.university.example.CourseSchedule.CourseSchedule;
+import University.CourseSchedule.CourseSchedule;
 import java.lang.*;
 import java.util.HashMap;
 /**
  *
- * @author kal bugrara
+ * @author manavshah
  */
 public class Calendar {
     

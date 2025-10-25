@@ -7,9 +7,9 @@ package University;
 
 import University.CourseCatalog.Course;
 import University.CourseCatalog.CourseCatalog;
-import info5100.university.example.CourseSchedule.CourseLoad;
-import info5100.university.example.CourseSchedule.CourseOffer;
-import info5100.university.example.CourseSchedule.CourseSchedule;
+import University.CourseSchedule.CourseLoad;
+import University.CourseSchedule.CourseOffer;
+import University.CourseSchedule.CourseSchedule;
 import University.Department.Department;
 import University.Persona.Person;
 import University.Persona.PersonDirectory;
@@ -18,7 +18,7 @@ import University.Persona.StudentProfile;
 
 /**
  *
- * @author kal bugrara
+ * @author manavshah
  */
 public class University {
 

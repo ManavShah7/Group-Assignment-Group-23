@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- You may freely edit this file. See commented blocks below for -->
-<!-- some examples of how to customize the build. -->
+<!-- some s of how to customize the build. -->
 <!-- (If you delete it and reopen the project it will be recreated.) -->
 <!-- By default, only the Clean and Build commands use this build script. -->
 <!-- Commands such as Run, Debug, and Test only use this build script if -->
@@ -32,7 +32,7 @@
 
     (Targets beginning with '-' are not intended to be called on their own.)
 
-    Example of inserting an obfuscator after compilation could look like this:
+     of inserting an obfuscator after compilation could look like this:
 
         <target name="-post-compile">
             <obfuscate>
@@ -56,7 +56,7 @@
       -javadoc-build:           Javadoc generation
       test-report:              JUnit report generation
 
-    An example of overriding the target for project execution could look like this:
+    An  of overriding the target for project execution could look like this:
 
         <target name="run" depends="Group_Assignment-impl.jar">
             <exec dir="bin" executable="launcher.exe">

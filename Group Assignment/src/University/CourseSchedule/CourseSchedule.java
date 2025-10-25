@@ -3,15 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package info5100.university.example.CourseSchedule;
+package University.CourseSchedule;
 
-import info5100.university.example.CourseCatalog.Course;
-import info5100.university.example.CourseCatalog.CourseCatalog;
+import University.CourseCatalog.Course;
+import University.CourseCatalog.CourseCatalog;
 import java.util.ArrayList;
 
 /**
  *
- * @author kal bugrara
+ * @author manavshah
  */
 public class CourseSchedule {
 
